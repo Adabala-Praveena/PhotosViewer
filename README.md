@@ -17,3 +17,5 @@ Protocols also have been used as a layer of abstraction.
 RxSwift has been used for bindings betwween view and view models.
 Moya has been used to make network calls.
 The api calls are cached in order to reduce network data consumption.
+
+To run the app do pod install and open xcodeworkspace file in xcode.
